@@ -1,4 +1,52 @@
+/* navbar */
 #navbar .brand {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 2pc;
+}
+
+/* home page.1 */
+.home-container {
+    display: flex;
+}
+
+.home-container img {
+    height: 400px;
+}
+
+#home {
+    background-color: #F9FBE7;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.item-text {
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.item-text h1 {
+    text-align: center;
+}
+
+.item-text p {
+    margin-top: 30px;
+    font-size: 1.5pc;
+    text-align: center;
+}
+
+.container-lang {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+.container-lang .nav-link {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.under {
+    text-decoration: underline;
+    display: block;
 }
