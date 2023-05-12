@@ -50,3 +50,25 @@
     text-decoration: underline;
     display: block;
 }
+
+/* about pg */
+.container-about {
+
+    background-color: #F9D949;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#about {
+    background-color: #F9D949;
+}
+
+#about .item {
+    text-align: center;
+    width: 700px;
+    margin-left: 400px;
+}
+
+#about p {
+    font-size: 1.4pc;
+}
