@@ -1,6 +1,4 @@
 
-Sure, here's an updated version of the README file with emojis used instead of bullet points:
-
 # 🧠 Personal Website
 
 👋 Hello and welcome to my personal website! This website is a project created by me, Tejeswar, using HTML and CSS. 🖥️💻
