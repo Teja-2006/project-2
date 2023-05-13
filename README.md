@@ -3,7 +3,7 @@ Sure, here's an updated version of the README file with emojis used instead of b
 
 # 🧠 Personal Website
 
-👋 Hello and welcome to my personal website! This website is a project created by me, [Your Name], using HTML and CSS. 🖥️💻
+👋 Hello and welcome to my personal website! This website is a project created by me, Tejeswar, using HTML and CSS. 🖥️💻
 
 ## Description
 
