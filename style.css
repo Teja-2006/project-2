@@ -104,3 +104,21 @@ p {
 .constainer-experience .item {
     display: flex;
 }
+
+/* contact me */
+#contact_me {
+    height: 100vh;
+    padding-top: 20px;
+    background-color: #F9D949;
+}
+
+.contact_me-container h1 {
+    text-align: center;
+    font-size: 2.8pc;
+}
+
+.contact_me-container form {
+    position: relative;
+    text-align: center;
+    top: 200px;
+}
