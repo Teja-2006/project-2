@@ -72,3 +72,35 @@
 #about p {
     font-size: 1.4pc;
 }
+
+/* experience pageg */
+#experience {
+    background-color: #F9FBE7;
+    height: 100vh;
+}
+
+.constainer-experience h1,
+p {
+    text-align: center;
+
+}
+
+.constainer-experience h1 {
+    font-size: 3pc;
+    margin-top: 20px;
+}
+
+.constainer-experience p {
+    font-size: 1.5pc;
+    margin-top: 30px;
+}
+
+.constainer-experience img {
+    height: 400px;
+    position: relative;
+    left: 500px;
+}
+
+.constainer-experience .item {
+    display: flex;
+}
