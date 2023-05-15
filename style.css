@@ -92,7 +92,7 @@ p {
 
 .constainer-experience p {
     font-size: 1.5pc;
-    margin-top: 30px;
+
 }
 
 .constainer-experience img {
@@ -108,17 +108,20 @@ p {
 /* contact me */
 #contact_me {
     height: 100vh;
-    padding-top: 20px;
     background-color: #F9D949;
 }
 
-.contact_me-container h1 {
+#contact_me h1 {
     text-align: center;
-    font-size: 2.8pc;
+    position: relative;
+    top: 40px;
+    font-size: 3.9pc;
 }
 
-.contact_me-container form {
-    position: relative;
+.call {
+    display: flex;
     text-align: center;
-    top: 200px;
+    position: relative;
+    top: 30px;
+
 }
