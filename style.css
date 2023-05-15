@@ -105,20 +105,20 @@ p {
     display: flex;
 }
 
-/* contact me */
-
-#contact_me {
-    height: 100vh;
+/* footer */
+footer {
+    height: 100px;
     background-color: #F9D949;
-}
-
-#contact_me h1 {
     text-align: center;
-    position: relative;
-    top: 40px;
-    font-size: 3.9pc;
 }
 
-.row {
-    width: 100%;
+footer>h5 {
+    color: #EEEEEE;
+    text-align: center;
+}
+
+footer .foot {
+    display: flex;
+    gap: 20px;
+    text-align: center;
 }
