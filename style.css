@@ -119,10 +119,6 @@ p {
     font-size: 3.9pc;
 }
 
-.call {
-    display: flex;
-    text-align: center;
-    position: relative;
-    top: 30px;
-
+.row {
+    width: 100%;
 }
