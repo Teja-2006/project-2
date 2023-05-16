@@ -117,8 +117,14 @@ footer>h5 {
     text-align: center;
 }
 
-footer .foot {
+footer ul {
+    text-align: center;
     display: flex;
     gap: 20px;
+    position: relative;
+
+}
+
+footer a {
     text-align: center;
 }
