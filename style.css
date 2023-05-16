@@ -117,14 +117,10 @@ footer>h5 {
     text-align: center;
 }
 
-footer ul {
+footer>div {
+    color: #EEEEEE;
     text-align: center;
     display: flex;
+    justify-content: center;
     gap: 20px;
-    position: relative;
-
-}
-
-footer a {
-    text-align: center;
 }
